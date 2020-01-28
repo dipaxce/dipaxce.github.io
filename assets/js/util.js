@@ -83,6 +83,8 @@
 				// Reset forms on hide.
 					resetForms: false,
 
+					submitForms: false,
+
 				// Side of viewport the panel will appear.
 					side: null,
 
